@@ -1,10 +1,10 @@
-**AWS-PostgreSQL-RDS-Table-Partition**
+***aws-rds-postgreqsl-table-partition***[]([url](https://github.com/idevopz/aws-rds-postgreqsl-table-partition))
 
 AWS PostgreSQL RDS Table Partition
 
 Here is a sample script for partitioning. You can use this as a reference and perform the same operation on your table.
 
-**Validate each partition:**
+***Validate each partition:***
 
 select * from datablogspaycheck_202303 order by 2 desc
 
